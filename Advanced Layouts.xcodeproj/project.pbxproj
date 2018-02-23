@@ -12,6 +12,7 @@
 		41ADAF3D203FEAD100B3F2FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41ADAF3B203FEAD100B3F2FC /* Main.storyboard */; };
 		41ADAF3F203FEAD100B3F2FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41ADAF3E203FEAD100B3F2FC /* Assets.xcassets */; };
 		41ADAF42203FEAD100B3F2FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41ADAF40203FEAD100B3F2FC /* LaunchScreen.storyboard */; };
+		41ADAF4C2040148500B3F2FC /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41ADAF4B2040148500B3F2FC /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		41ADAF3E203FEAD100B3F2FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41ADAF41203FEAD100B3F2FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41ADAF43203FEAD100B3F2FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41ADAF4B2040148500B3F2FC /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				41ADAF37203FEAD100B3F2FC /* AppDelegate.swift */,
 				41ADAF39203FEAD100B3F2FC /* ViewController.swift */,
+				41ADAF4B2040148500B3F2FC /* ViewController2.swift */,
 				41ADAF3B203FEAD100B3F2FC /* Main.storyboard */,
 				41ADAF3E203FEAD100B3F2FC /* Assets.xcassets */,
 				41ADAF40203FEAD100B3F2FC /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				41ADAF3A203FEAD100B3F2FC /* ViewController.swift in Sources */,
 				41ADAF38203FEAD100B3F2FC /* AppDelegate.swift in Sources */,
+				41ADAF4C2040148500B3F2FC /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
